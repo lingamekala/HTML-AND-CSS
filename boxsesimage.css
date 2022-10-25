@@ -1,0 +1,72 @@
+#a1
+{
+	color: whitesmoke;
+	
+	width: 100px;
+    background: url('https://financialtribune.com/sites/default/files/field/image/17january/16_kabaddi_0.jpg');
+    background-repeat: no-repeat; 
+	background-size:440px 252px;
+	border-radius: 20px;
+  	outline: 5px solid yellow;
+	padding:126px 170px;
+    border:5px solid red;
+    margin: 50px 200px 20px 132px;
+
+
+
+}
+#a2
+{
+	color: whitesmoke;
+	width: 100px;
+    background: url('https://images.indianexpress.com/2021/12/pro-kabaddi-live-2.jpg'); 
+	background-size:440px 252px;
+	border-radius: 20px;
+    outline: 5px solid yellow;
+	padding:126px 170px;
+    border:5px solid red;
+    margin: 50px 200px 20px 132px;
+
+
+}
+#a3{
+	color: whitesmoke;
+	width: 100px;
+    background: url('https://thumbs.dreamstime.com/b/pro-kabaddi-league-illustration-banner-95339432.jpg'); 
+	background-size:440px 252px;
+	border-radius: 50%;
+    outline: 5px solid yellow;
+	padding:200px 170px;
+    border:5px solid red;
+    margin:-509px 607px 20px 614px;
+
+
+}
+#a4
+{
+	color: whitesmoke;
+	width: 100px;
+    background: url('https://images.hindi.news18.com/ibnkhabar/uploads/2022/02/pro-kabaddi-league-1.jpg'); 
+	background-size:440px 252px;
+	border-radius: 20px;
+    outline: 5px solid yellow;
+	padding:126px 170px;
+	border:5px solid red;
+    margin: -527px 200px 20px 1087px;
+
+
+}
+#a5
+{
+	color: whitesmoke;
+	width: 100px;
+    background: url('https://gumlet.assettype.com/freepressjournal/2022-07/870abf81-f24c-4481-802f-d2b85b061dcc/PKL.jpeg?format=webp&w=480&dpr=2.6'); 
+	background-size:440px 252px;
+	border-radius: 20px;
+    outline: 5px solid yellow;
+	padding:126px 170px;
+    border:5px solid red;
+    margin: 50px 200px 20px 1087px;
+
+
+}
